@@ -68,8 +68,3 @@ npm run build:frontend   # output in ./out
 
 Next.js 15 · React 19 · Tailwind CSS 4 · Radix UI — styled with a Microsoft Fluent-inspired theme.
 
-## Maintainer
-
-**Sajid Nazeer** — [sajid.nazeer@gmail.com](mailto:sajid.nazeer@gmail.com)
-
-Issues and pull requests are welcome.
